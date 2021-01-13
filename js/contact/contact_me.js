@@ -57,7 +57,7 @@ $(function () {
             //    }, 1000);
             //  }
             //});
-            var link = 'mailto:abdulla.aldandarawy+portfolio@gmail.com?subject=' + 'Portfolio Website Message from:' +
+            var link = 'mailto:os1991ai@gmail.com?subject=' + 'Portfolio Website Message from:' +
                 name + '[' + email + ']'
                 + '&body=' + message;
             window.open(link);
