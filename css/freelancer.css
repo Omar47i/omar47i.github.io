@@ -490,6 +490,12 @@ mark,
     border-radius: 0.25rem;
 }
 
+.img-fluid-small {
+  max-width: 50%;
+  height: auto;
+  border-radius: 0.25rem;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
