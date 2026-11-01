@@ -8,8 +8,8 @@ SITE = 'https://omar47i.github.io/'
 TEMPLATE = (ROOT / 'scripts/portfolio.html').read_text()
 ASSETS = {
     '@@PORTRAIT@@': 'assets/omar-portrait.png',
-    '@@RUN_GAME@@': 'img/portfolio/runCover.png',
-    '@@TRIVIA_GAME@@': 'assets/educational-game.png',
+    '@@RUN_GAME@@': 'assets/game-runner-recreation.png',
+    '@@TRIVIA_GAME@@': 'assets/game-quiz-recreation.png',
 }
 SLUGS = {
     'authoring': 'authoring',
