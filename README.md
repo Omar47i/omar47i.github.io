@@ -18,7 +18,7 @@ Generated HTML is committed with the source, so GitHub Pages can serve the repos
 
 ## Content boundaries
 
-Current product interfaces are recreations using synthetic examples. Project names are descriptive. Private Slack material, internal documents and source evidence are not included in this repository. Earlier game imagery was already part of the public portfolio.
+Current product interfaces are recreations using synthetic examples. Project names are descriptive. Private Slack material, internal documents and source evidence are not included in this repository. The featured game illustrations are AI-created recreations with fictional names, characters and branding. They do not represent original screenshots or artwork created by Omar. Descriptions of Omar’s contributions refer to the original projects.
 
 The authoring time comparison is approximate and includes its measurement context. Validation examples demonstrate workflow behavior, not model accuracy or learning gains. The employment timeline distinguishes game work from broader AI product ownership beginning in 2025.
 
