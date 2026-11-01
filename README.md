@@ -12,7 +12,7 @@ Open `index.html` directly, or run `python3 -m http.server 8765` in this directo
 - `assets/portfolio-v2.css` controls the layout and responsive styles.
 - `assets/portfolio-v2.js` opens case studies in accessible dialogs and switches the game previews. Case-study links also work as standalone pages without JavaScript and can be shared directly. The site does not call an AI service or collect visitor information.
 - `assets/Omar-Ibrahim-CV.pdf` is the current résumé download.
-- `legacy.html` preserves the earlier public portfolio, with an archive label and email contact link. Its media and original assets are retained.
+- `legacy.html` preserves the earlier public portfolio, with an archive label and email contact link. The two original MeeOpp game galleries and embedded recordings have been omitted; their cards use labelled fictional illustrations. Earlier media files and Git history may remain accessible separately.
 
 Generated HTML is committed with the source, so GitHub Pages can serve the repository directly. The old Bootstrap/Gulp files support the archive; they are not needed to build the new portfolio.
 
