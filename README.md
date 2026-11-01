@@ -8,9 +8,9 @@ Open `index.html` directly, or run `python3 -m http.server 8765` in this directo
 
 ## Edit
 
-- `scripts/build.py` contains the homepage and case-study content. Run `python3 scripts/build.py` after editing it to regenerate `index.html` and `work/*.html`.
-- `assets/portfolio.css` controls the layout, responsive styles and light/dark themes.
-- `assets/portfolio.js` handles project filters and the fixed, illustrative interactions. The site does not call an AI service or collect visitor information.
+- `scripts/portfolio.html` contains the homepage and case-study content. Run `python3 scripts/build.py` after editing it to regenerate `index.html` and `work/*.html`.
+- `assets/portfolio-v2.css` controls the layout and responsive styles.
+- `assets/portfolio-v2.js` opens case studies in accessible dialogs and switches the game previews. Case-study links also work as standalone pages without JavaScript and can be shared directly. The site does not call an AI service or collect visitor information.
 - `assets/Omar-Ibrahim-CV.pdf` is the current résumé download.
 - `legacy.html` preserves the earlier public portfolio, with an archive label and email contact link. Its media and original assets are retained.
 
